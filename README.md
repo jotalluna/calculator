@@ -173,7 +173,7 @@ Para acceder a la documentación del APIRest usaremos la siguiente URL:
 		{
 		  "datoA": 10,
 		  "datoB": 20,
-		  "type": "string"
+		  "type": "sum"
 		}
 
 
