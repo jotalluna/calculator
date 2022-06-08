@@ -6,15 +6,6 @@ Este documento es la explicación de la prueba de concepto para Iteriam.
 
 Todo el código del proyecto completo se encuentra en este [GitHub repository](https://github.com/jotalluna/calculator/).
 
-Los commits para cada de los tres pasos del proyecto se encuentran aquí:
-- [Página Web Thymeleaf con Bootstrap
-  ](https://github.com/ChrisHilborne/FilmFanatics/tree/56a745ecc8123bef86ca39947ddd14d3d7db599d)
-- [RESTful API con JWT authentication y OpenAPI 2.0 docs](https://github.com/ChrisHilborne/FilmFanatics/tree/3cd934ac5416db14ddbbe46fafd4c48c9e8f889e)
-- [Spring Batch Job](https://github.com/ChrisHilborne/FilmFanatics/tree/9f258ab4252977efe1a8cded16d3de2b014ac0a1)
-
-En vez de incluir grabaciones de pantalla, proveeré enlaces al código en el repository de GitHub. También 
-Proporcionaré en el propio documento fragmentos de código que requieren más explicación.
-
 ## Sumario
 
 <!-- TOC -->
